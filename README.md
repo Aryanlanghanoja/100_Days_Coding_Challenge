@@ -16,7 +16,7 @@ The primary objectives of this challenge are:
 - **End Date**: December 15, 2024
 - **Duration**: 100 days
 - **Platform**: [CodeChef](https://www.codechef.com/).
-- **Daily Commitment**: Solve at least one coding problem or work on a project for a minimum of one hour.
+- **Daily Commitment**: Solve at least one coding problem.
 
 ## 📝 Progress
 
@@ -24,6 +24,6 @@ Each day will have its own directory in this repository with a markdown file out
 
 ## 💬 Contact
 
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- GitHub: [Aryanlanghanoja](https://github.com/Aryanlanghanoja)
 
 Thank you for visiting my repository. Let's code consistently and grow together! 🚀💻
