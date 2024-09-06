@@ -24,10 +24,7 @@ bool Binary_Search(vector<int>& Array, int key, int left, int right) {
 
 int main() {
     // your code goes here
-
-    int N = 5;
-    int X = 3;
-
+    
     cin >> N >> X;
     vector<int> Array(N, 0);
 
