@@ -1,4 +1,4 @@
-# 🚀 100 Days of Code: Sept 5 - Dec 15
+# 🚀 100 Days of Code: September 5 - December 15
 
 Welcome to my **100 Days of Code** challenge repository! This project is dedicated to the journey of coding every day from **September 5, 2024** to **December 15, 2024**, consistently improving my programming skills and solving a variety of problems. 💻
 
