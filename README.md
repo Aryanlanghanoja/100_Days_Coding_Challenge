@@ -20,7 +20,7 @@ The primary objectives of this challenge are:
 
 ## 📝 Progress
 
-Each day will have its own directory in this repository with a markdown file outlining the problem(s) solved, the approach taken, and the solution code. 
+Each day will have its own directory in this repository the solution code. 
 
 ## 💬 Contact
 
